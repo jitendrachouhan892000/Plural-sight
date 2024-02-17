@@ -1,2 +1,2 @@
 # Plural-sight
-auther-JITENDRA CHOUHAN.
+author-JITENDRA CHOUHAN.
